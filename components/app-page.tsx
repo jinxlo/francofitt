@@ -5,7 +5,7 @@ import Link from 'next/link'
 import { motion, AnimatePresence } from 'framer-motion'
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
-import { Instagram, Facebook, ChevronRight, Menu, ArrowRight, Zap, Target, Users, Youtube } from 'lucide-react'
+import { Instagram, ChevronRight, Menu, ArrowRight, Zap, Target, Users, Youtube } from 'lucide-react'
 import { useState, useEffect, useRef } from 'react'
 
 const glowingLinesStyles = `
